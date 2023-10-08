@@ -1,4 +1,4 @@
-# Assignment8starter
+# Assignment 8 starter
 
 
 This project is a maven project and slightly different than some previous projects because of that.
