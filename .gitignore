@@ -5,3 +5,5 @@
 main.iml
 /target
 .DS_Store
+.vscode/
+bin/
