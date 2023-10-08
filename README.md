@@ -15,7 +15,7 @@ To use this template:
 
 - Name your new project `Assignment8` when you are choosing a name.
 
-- This will create a repository on github for your assignment. Clone this remote repository down to your local box, as you would clone any other repository. Place it on your box in the same folder as your other coderscampus assignments.
+- This will create a repository on github for your assignment. Clone this remote repository down to your local computer, as you would clone any other repository. Place it on your computer in the same folder as your other coderscampus assignments.
 
 - `Import` this an Eclipse project as an `Existing Maven Project`.
 
